@@ -48,7 +48,7 @@ Azure Data Explorer は、アプリケーション、Web サイト、IoT デバ�
 
 その後、データはストレージ アカウントにアーカイブされるか、イベント ハブにストリーミングされるか、または仕様に応じて Log Analytics に送信されます。
 
-### <a name="enable-diagnostic-logs"></a>Traffic Manager で診断ログを有効にする
+### <a name="enable-diagnostic-logs"></a>診断ログを有効にする
 
 既定では、診断ログは無効になっています。 診断ログを有効にするには、次のステップを実行します。
 
